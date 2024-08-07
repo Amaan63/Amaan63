@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amaan Sayyed</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h3 align="center">A Passionate java developer from India</h3>
+
+- 🌱 I’m currently learning **Spring, SpringBoot**
+
+- 💬 Ask me about **Core Java, general Programming.....**
 
 - 📫 How to reach me **amaansayed63@gmail.com**
+
+- ⚡ Fun fact **I initially liked coding because of the colorful nature of the code in VS Code IDE.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
