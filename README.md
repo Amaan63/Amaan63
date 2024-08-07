@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amnna Sayyed</h1>
+<h1 align="center">Hi 👋, I'm Amaan Sayyed</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
 - 📫 How to reach me **amaansayed63@gmail.com**
