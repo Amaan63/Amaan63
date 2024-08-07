@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring, SpringBoot, Hibernate**
 
-- 💬 Ask me about **Core Java, general Programming.....**
+- 💬 Ask me about **Core Java, General Programming Questions.....**
 
 - 📫 How to reach me **amaansayed63@gmail.com**
 
