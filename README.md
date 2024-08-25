@@ -14,7 +14,7 @@
 <a href="https://twitter.com/amaansayyed63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amaansayyed63" height="30" width="40" /></a>
 <a href="https://instagram.com/amaann63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amaann63" height="30" width="40" /></a>
 </p>
-<h3 align="left">Secondary Account / Learning Account</h3>
+<h3 align="left">Secondary Account / Learning Account:</h3>
 <p align="left">
 <a href="https://github.com/theamaan619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="theamaan619" height="30" width="40" /></a>
 </p>
