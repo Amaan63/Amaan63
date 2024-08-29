@@ -1,6 +1,6 @@
 <div align="center">
  <h1 align="center">Hi 👋, I'm Amaan Sayyed</h1>
- # 💫 About Me:
+ <h1> 💫 About Me: </h1>
  <h3 align="center">A Passionate java developer from India</h3>
 
 - 🌱 I’m currently learning **Spring, SpringBoot, Hibernate**
