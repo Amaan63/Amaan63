@@ -13,7 +13,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amaann63)
- [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/amaansayed63) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Amaann63) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amaansayyed63) 
+ [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/amaansayed63) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Amaann63) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amaansayyed63) <br />
  Seconadary / Learning Github Account [![GithUb](https://img.shields.io/badge/Github-%23E4405F.svg?logo=Github&logoColor=white)](https://github.com/theamaan619)
 
 # 💻 Tech Stack:
