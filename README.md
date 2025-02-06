@@ -1,3 +1,4 @@
+![GitHub Wave Animation](./wave-contributions.svg)
 <div align="center">
  <h1 align="center">Hi 👋, I'm Amaan Sayyed</h1>
  <h1> 💫 About Me: </h1>
