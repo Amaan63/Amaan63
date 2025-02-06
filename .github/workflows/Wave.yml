@@ -12,7 +12,7 @@ jobs:
       - name: Fetch Stats
         uses: cicirello/contribution-stats-action@v2
         with:
-          token: ${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}
+          token: ${}
           outputPath: "./docs/badge.md"  # Save badge here
 
       - name: Commit Badge
