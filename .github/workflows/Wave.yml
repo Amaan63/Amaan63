@@ -1,34 +1,22 @@
-name: GitHub Wave Animation  
+name: Generate Stats Badge 🎖️
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"  # Run daily
+  workflow_dispatch:  # Manual trigger option
 
 jobs:
-  generate-wave:
+  generate-badge:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Check out the repository
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      # Step 2: Generate a custom wave contribution calendar
-      - name: Generate Wave Animation
-        uses: yochananl/wave-art-action@v1.1
+      - name: Fetch Stats
+        uses: cicirello/contribution-stats-action@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: "wave-contributions.svg"
-          color_wave: "#1db954" # Customize the wave color
-          style: "smooth" # Choose from 'smooth', 'wavy', or 'sharp'
+          token: ${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}
+          outputPath: "./docs/badge.md"  # Save badge here
 
-      # Step 3: Deploy the generated wave to the repo
-      - name: Commit and Push Wave
+      - name: Commit Badge
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update GitHub Wave Contribution Animation 🌊"
-          file_pattern: "wave-contributions.svg"
-
+          commit_message: "Updated Stats Badge 🏅"
+          file_pattern: "./docs/badge.md"
