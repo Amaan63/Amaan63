@@ -29,20 +29,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan63&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 
-## 📊 GitHub Stats
-
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Amaan63&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
-
-### 💻 GitHub Stats
-![Amaan63's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amaan63&show_icons=true&theme=radical&hide_border=true&title_color=1db954&icon_color=1db954)
-
-### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan63&layout=compact&theme=radical&hide_border=true&title_color=1db954)
-
 
 <picture>
 
