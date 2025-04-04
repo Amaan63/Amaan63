@@ -27,7 +27,8 @@
 
 <br/>
 <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan63&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan63&layout=compact&theme=radical&hide_border=true)
+
 
 <picture>
 
