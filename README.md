@@ -25,7 +25,7 @@
 ## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amaan63&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)<br/>
 <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan63&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan63&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 
 <picture>
