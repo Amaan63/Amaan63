@@ -32,7 +32,8 @@
 ## 📊 GitHub Stats
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amaan63&hide_border=true&theme=github-dark&ring=1db954&fire=1db954&currStreakNum=1db954&sideNums=1db954&sideLabels=1db954&currStreakLabel=1db954)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amaan63&theme=dark&hide_border=true&ring=1db954&fire=1db954&currStreakNum=1db954)](https://git.io/streak-stats)
+
 
 ### 💻 GitHub Stats
 ![Amaan63's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amaan63&show_icons=true&theme=radical&hide_border=true&title_color=1db954&icon_color=1db954)
