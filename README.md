@@ -32,7 +32,8 @@
 ## 📊 GitHub Stats
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Amaan63&theme=dark&hide_border=true&ring=1db954&fire=1db954&currStreakNum=1db954&sideNums=1db954&sideLabels=1db954)
+![GitHub Streak](https://streak-stats.demolab.com?user=Amaan63)
+
 
 
 
