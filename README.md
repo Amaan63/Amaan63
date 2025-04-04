@@ -29,6 +29,18 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan63&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 
+## 📊 GitHub Stats
+
+### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amaan63&hide_border=true&theme=github-dark&ring=1db954&fire=1db954&currStreakNum=1db954&sideNums=1db954&sideLabels=1db954&currStreakLabel=1db954)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+### 💻 GitHub Stats
+![Amaan63's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amaan63&show_icons=true&theme=radical&hide_border=true&title_color=1db954&icon_color=1db954)
+
+### 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan63&layout=compact&theme=radical&hide_border=true&title_color=1db954)
+
+
 <picture>
 
 
