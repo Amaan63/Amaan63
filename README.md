@@ -4,7 +4,7 @@
  <h1> 💫 About Me: </h1>
  <h3 align="center">A Passionate java developer from India</h3>
 
-- 🌱 I’m currently learning **Spring, SpringBoot, Hibernate, React**
+- 🌱 I’m currently Working On **Spring, SpringBoot, Hibernate, React**
 
 - 💬 Ask me about **Core Java, General Programming Questions.....**
 
