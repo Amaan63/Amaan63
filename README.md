@@ -25,5 +25,7 @@
  # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Amaan63&theme=chartreuse-dark&hide_border=true)<br/>
+
+[![](https://visitcount.itsvg.in/api?id=Amaan63&icon=0&color=0)](https://visitcount.itsvg.in)
 <picture>
 </div>
