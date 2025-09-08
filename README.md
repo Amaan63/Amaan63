@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Working On **Spring, SpringBoot, Hibernate, React**
 
-- 💬 Ask me about **Core Java, General Programming Questions.....**
+- 💬 Ask me about **Core Java, SpringBoot,General Programming Questions.....**
 
 - 📫 How to reach me **amaansayed63@gmail.com**
 
