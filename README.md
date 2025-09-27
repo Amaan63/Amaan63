@@ -1,5 +1,6 @@
 <div align="center">
- <h1 align="center">Hi 👋, I'm Amaan Sayyed</h1>
+ <h1 align="center">Hi 👋, I'm Amaan Sayyed
+</h1>
  <h2> 💫 About Me: </h2>
  <h3 align="center">A Passionate java developer from India</h3>
 
